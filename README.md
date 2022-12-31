@@ -70,3 +70,7 @@ final class CallManager: NSObject, CXProviderDelegate {
     }
 }
 ```
+
+<img width="990" alt="スクリーンショット_2022_12_31_12_39" src="https://user-images.githubusercontent.com/47273077/210123643-a2998eea-8976-4564-b7c1-f50c69cd023a.png">
+
+
